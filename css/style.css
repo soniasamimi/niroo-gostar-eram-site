@@ -101,7 +101,7 @@ html[lang="fa"] .logo-mark {
   letter-spacing: 0;
 }
 
-.logo-mark img { height: 56px; width: auto; }
+.logo-mark img { height: 90px; width: auto; }
 @media (max-width: 480px) {
   .logo-mark img { height: 44px; }
   .logo-mark { font-size: 1.15rem; }
